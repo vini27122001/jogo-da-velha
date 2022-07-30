@@ -1,0 +1,45 @@
+
+/*--------------- blocos de X e O ------------------ */
+
+#l1-c1,
+#l1-c2,
+#l1-c3,
+#l2-c1,
+#l2-c2,
+#l2-c3,
+#l3-c1,
+#l3-c2,
+#l3-c3 {
+    background-color: black;
+    float: left;
+    margin: 1em;
+    width: 200px;
+    height: 200px;
+}
+
+/*--------------- blocos de X e O ------------------ */
+
+
+/*--------------- largura do site ------------------ */
+#site-largura {
+    width: 700px;
+    margin: 20em;
+    margin-top: 1em;
+    
+}
+
+/*--------------- largura do site  ------------------ */
+
+
+#inputNumber {
+    margin-top: 4em;
+    margin-left: 20em;
+}
+
+.paragrafo {
+    margin-left: 10em;}
+
+nav {
+    margin-left: 20em;
+    margin-top: 1em;
+}
